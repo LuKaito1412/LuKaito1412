@@ -9,6 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 www.linkedin.com/in/liu-jiexin-lk1412
+<h3 align="left">Check out my website:</h3>
+https://lu176844.wixsite.com/my-cybersecurity-p-1
+
 <p align="left">
 </p>
 
