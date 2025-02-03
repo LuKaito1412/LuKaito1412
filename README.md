@@ -8,6 +8,7 @@
 - 📫 How to reach me **lu176844@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+www.linkedin.com/in/liu-jiexin-lk1412
 <p align="left">
 </p>
 
